@@ -1,0 +1,13 @@
+{
+  "name": "MyBatis Lint Rules",
+  "rules": [
+    {
+      "key": "select-star-rule",
+      "name": "Avoid SELECT * in MyBatis Mapper",
+      "htmlDescription": "Avoid using SELECT * in MyBatis Mapper queries.",
+      "severity": "MAJOR",
+      "status": "READY",
+      "internalKey": "mybatis:select-star-rule"
+    }
+  ]
+}
